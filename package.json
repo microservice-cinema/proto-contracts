@@ -1,6 +1,6 @@
 {
   "name": "@microservice-cinema/contracts",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "Protobuf definitions and generated TypeScripts types",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
